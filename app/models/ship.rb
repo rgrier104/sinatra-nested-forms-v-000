@@ -11,7 +11,7 @@ class Ship
     SHIPS << self
   end
 
-  
 
-  
+
+
 end
